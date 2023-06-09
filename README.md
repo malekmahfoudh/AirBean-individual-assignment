@@ -1,6 +1,6 @@
 Information and instructions for using this Airbean backend app. 
 
-This is supposed to be a contiuation on a group assignment, but I found the process to be a bit confusing at first with the existing code, so I started a new one. I put in some menu items. Make sure to check the menu.db database to get an idea of how the menu is structured. Anyway here are some instructions. 
+This is supposed to be a continuation on a group assignment, but I found the process to be a bit confusing at first with the existing code, so I started a new one. I put in some menu items. Make sure to check the menu.db database to get an idea of how the menu is structured. Anyway here are some instructions. 
 
 SIGNUP
 - Open insomnia and create a new HTTP post request
